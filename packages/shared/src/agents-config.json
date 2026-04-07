@@ -1,0 +1,104 @@
+{
+  "agents": [
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "priority": 1,
+      "enabled": true,
+      "github": {
+        "owner": "anthropics",
+        "repo": "claude-code"
+      },
+      "xAccounts": [
+        "bcherny",
+        "trq212",
+        "noahzweben",
+        "felixrieseberg",
+        "lydiahallie",
+        "amorriscode",
+        "claudeai"
+      ],
+      "signalKeywords": [
+        "claude code",
+        "claude update",
+        "anthropic cli",
+        "claude cli",
+        "claude --version",
+        "mcp server",
+        "claude hooks"
+      ]
+    },
+    {
+      "id": "codex",
+      "name": "Codex CLI",
+      "priority": 1,
+      "enabled": true,
+      "github": {
+        "owner": "openai",
+        "repo": "codex"
+      },
+      "xAccounts": [
+        "openaidevs",
+        "thsottiaux",
+        "romainhuet",
+        "reach_vb",
+        "rohanvarma"
+      ],
+      "signalKeywords": [
+        "codex",
+        "codex cli",
+        "openai codex",
+        "codex update",
+        "codex --version"
+      ]
+    },
+    {
+      "id": "gemini-cli",
+      "name": "Gemini CLI",
+      "priority": 2,
+      "enabled": false,
+      "github": {
+        "owner": "google",
+        "repo": "gemini-cli"
+      },
+      "xAccounts": [],
+      "signalKeywords": ["gemini cli", "gemini code", "google gemini cli"]
+    },
+    {
+      "id": "opencode",
+      "name": "opencode",
+      "priority": 2,
+      "enabled": false,
+      "github": {
+        "owner": "sst",
+        "repo": "opencode"
+      },
+      "xAccounts": [],
+      "signalKeywords": ["opencode", "opencode cli", "sst opencode"]
+    },
+    {
+      "id": "openclaw",
+      "name": "Openclaw",
+      "priority": 3,
+      "enabled": false,
+      "github": {
+        "owner": "",
+        "repo": ""
+      },
+      "xAccounts": [],
+      "signalKeywords": ["openclaw"]
+    },
+    {
+      "id": "hermes-agent",
+      "name": "Hermes-agent",
+      "priority": 3,
+      "enabled": false,
+      "github": {
+        "owner": "",
+        "repo": ""
+      },
+      "xAccounts": [],
+      "signalKeywords": ["hermes-agent", "hermes agent"]
+    }
+  ]
+}
