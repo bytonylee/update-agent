@@ -1,0 +1,18 @@
+{
+  "name": "updagent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "collect": "npm run collect --workspace=packages/collector",
+    "test": "npm run test --workspaces --if-present",
+    "test:coverage": "npm run test:coverage --workspace=packages/collector",
+    "build": "npm run build --workspaces --if-present",
+    "build:shared": "npm run build --workspace=packages/shared",
+    "build:collector": "npm run build --workspace=packages/collector"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
