@@ -1,3 +1,9 @@
+> ⚠️ **Deprecated**: This file is the original v0.1 spec and has been superseded.
+> See [GOAL.md](GOAL.md), [COMPONENTS.md](COMPONENTS.md), and [TASKS.md](TASKS.md) for the current implementation spec.
+> The content below is preserved for historical reference only.
+
+---
+
 # updagent — Spec v0.1
 
 > **What this is**: A real-time update tracker for Codex CLI and Claude Code.
