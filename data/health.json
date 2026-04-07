@@ -1,0 +1,109 @@
+{
+  "lastRunAt": "2026-04-07T10:15:14.101Z",
+  "durationMs": 1281,
+  "newItemCount": 0,
+  "totalItemCount": 10,
+  "tier1FailureCount": 12,
+  "tier2FailureCount": 12,
+  "allTierFailureAccounts": [
+    "bcherny",
+    "trq212",
+    "noahzweben",
+    "felixrieseberg",
+    "lydiahallie",
+    "amorriscode",
+    "claudeai",
+    "openaidevs",
+    "thsottiaux",
+    "romainhuet",
+    "reach_vb",
+    "rohanvarma"
+  ],
+  "credentialWarning": true,
+  "accounts": [
+    {
+      "account": "bcherny",
+      "consecutiveTier1Failures": 6,
+      "lastSuccessfulTier": null,
+      "lastSuccessAt": null,
+      "lastCheckedAt": "2026-04-07T10:15:12.824Z"
+    },
+    {
+      "account": "trq212",
+      "consecutiveTier1Failures": 6,
+      "lastSuccessfulTier": null,
+      "lastSuccessAt": null,
+      "lastCheckedAt": "2026-04-07T10:15:12.827Z"
+    },
+    {
+      "account": "noahzweben",
+      "consecutiveTier1Failures": 6,
+      "lastSuccessfulTier": null,
+      "lastSuccessAt": null,
+      "lastCheckedAt": "2026-04-07T10:15:12.828Z"
+    },
+    {
+      "account": "felixrieseberg",
+      "consecutiveTier1Failures": 6,
+      "lastSuccessfulTier": null,
+      "lastSuccessAt": null,
+      "lastCheckedAt": "2026-04-07T10:15:12.830Z"
+    },
+    {
+      "account": "lydiahallie",
+      "consecutiveTier1Failures": 6,
+      "lastSuccessfulTier": null,
+      "lastSuccessAt": null,
+      "lastCheckedAt": "2026-04-07T10:15:12.831Z"
+    },
+    {
+      "account": "amorriscode",
+      "consecutiveTier1Failures": 6,
+      "lastSuccessfulTier": null,
+      "lastSuccessAt": null,
+      "lastCheckedAt": "2026-04-07T10:15:12.833Z"
+    },
+    {
+      "account": "claudeai",
+      "consecutiveTier1Failures": 6,
+      "lastSuccessfulTier": null,
+      "lastSuccessAt": null,
+      "lastCheckedAt": "2026-04-07T10:15:12.834Z"
+    },
+    {
+      "account": "openaidevs",
+      "consecutiveTier1Failures": 6,
+      "lastSuccessfulTier": null,
+      "lastSuccessAt": null,
+      "lastCheckedAt": "2026-04-07T10:15:13.260Z"
+    },
+    {
+      "account": "thsottiaux",
+      "consecutiveTier1Failures": 6,
+      "lastSuccessfulTier": null,
+      "lastSuccessAt": null,
+      "lastCheckedAt": "2026-04-07T10:15:13.262Z"
+    },
+    {
+      "account": "romainhuet",
+      "consecutiveTier1Failures": 6,
+      "lastSuccessfulTier": null,
+      "lastSuccessAt": null,
+      "lastCheckedAt": "2026-04-07T10:15:13.263Z"
+    },
+    {
+      "account": "reach_vb",
+      "consecutiveTier1Failures": 6,
+      "lastSuccessfulTier": null,
+      "lastSuccessAt": null,
+      "lastCheckedAt": "2026-04-07T10:15:13.265Z"
+    },
+    {
+      "account": "rohanvarma",
+      "consecutiveTier1Failures": 6,
+      "lastSuccessfulTier": null,
+      "lastSuccessAt": null,
+      "lastCheckedAt": "2026-04-07T10:15:13.266Z"
+    }
+  ]
+}
