@@ -5,6 +5,9 @@ dist/
 .env.local
 .env.*.local
 coverage/
+.omc/
 .omx/
+*.tsbuildinfo
+.vite/
 packages/collector/data/
 packages/collector/newsletters/
