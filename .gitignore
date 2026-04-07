@@ -5,3 +5,6 @@ dist/
 .env.local
 .env.*.local
 coverage/
+.omx/
+packages/collector/data/
+packages/collector/newsletters/
